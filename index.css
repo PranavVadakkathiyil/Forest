@@ -252,7 +252,7 @@ section
 }
 .funder
 {
-    background: url(bg2.jpg);
+    background: url("bg2.jpg");
     background-size: cover;
 }
 .white .titletext ,.white p
@@ -315,7 +315,7 @@ section
 }
 .contact
 {
-    background: url(contact.jpg);
+    background: url("contact.jpg");
     background-size: cover;
     
 }
@@ -428,7 +428,7 @@ section
         position: relative;
         width: 40px;
         height: 40px;
-        background: url(menu.png);
+        background: url("menu.png");
         background-size: 30px;
         background-repeat:no-repeat ;
         background-position: center;
@@ -436,7 +436,7 @@ section
     }
     .menutoggle.active
     {
-        background: url(close.png);
+        background: url("close.png");
         background-size: 25px;
         background-repeat:no-repeat ;
         background-position: center;
